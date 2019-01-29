@@ -31,7 +31,7 @@ create-react-app createreactapp-typescript-test --scripts-version=react-scripts-
 
 ## Running test
 
-Being in createreactapp-typescript-test directory:
+Being in *createreactapp-typescript-test* directory:
 
 ```sh
 node test
