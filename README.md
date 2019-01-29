@@ -13,17 +13,19 @@ Yet absent
 * [*Node 8.10.0* o later](https://nodejs.org/en/download/package-manager/)
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
 
-*TypeScript* and other dependencies are installed implicitly as transitive.
+*TypeScript* and other dependencies are transitive and therefore installed implicitly.
 
 ## Installation
 
-Install *create-react-app*:
+Two steps are required:
+
+### Install *create-react-app*:
 
 ```sh
 npm i -g create-react-app
 ```
 
-Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*):
+### Generate+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*):
 
 ```sh
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
