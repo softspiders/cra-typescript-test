@@ -17,7 +17,7 @@ Not yet
 ## Installation
 
 ```sh
-create-react-app my-app --scripts-version=react-scripts-ts
+create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
 ```
 
 ## Running test
