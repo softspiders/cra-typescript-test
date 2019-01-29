@@ -28,7 +28,21 @@ Install *createreactapp-typescript-test* application (*create-react-app* with *T
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
 ```
 
-## Running test
+## Running
+
+Being in the *createreactapp-typescript-test* directory, run:
+
+```sh
+node start
+```
+
+or
+
+```sh
+yarn start
+```
+
+## Running test (in watch mode)
 
 Being in the *createreactapp-typescript-test* directory, run:
 
