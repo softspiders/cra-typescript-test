@@ -22,16 +22,15 @@ Install *create-react-app*:
 npm i -g create-react-app
 ```
 
-Install *createreactapp-typescript-test* (*create-react-app* with *TypeScript*):
+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*):
 
 ```sh
-npm i -g create-react-app
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
 ```
 
 ## Running test
 
-Being in *createreactapp-typescript-test* directory:
+Being in the *createreactapp-typescript-test* directory, run:
 
 ```sh
 node test
