@@ -12,7 +12,8 @@ Not yet
 
 * [*Node 8.10.0* o later](https://nodejs.org/en/download/package-manager/)
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*TypeScript*](https://www.typescriptlang.org/)
+
+*TypeScript* and other dependencies are installed implicitly as transitive.
 
 ## Installation
 
