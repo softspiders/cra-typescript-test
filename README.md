@@ -2,11 +2,11 @@
 
 ## Direct ancestors
 
-No
+Absent
 
 ## Direct descendants
 
-Not yet
+Yet absent
 
 ## Requirements
 
