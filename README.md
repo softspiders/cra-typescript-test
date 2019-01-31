@@ -25,10 +25,9 @@ Two steps are required:
 npm i -g create-react-app
 ```
 
-Being in some parent directory, run:
-
 ### Generate+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*)
 
+Being in some parent directory, run:
 ```sh
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
 ```
