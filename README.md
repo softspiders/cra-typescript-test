@@ -19,13 +19,15 @@ Yet absent
 
 Two steps are required:
 
-### Install *create-react-app*:
+### Install *create-react-app*
 
 ```sh
 npm i -g create-react-app
 ```
 
-### Generate+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*):
+Being in some parent directory, run:
+
+### Generate+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*)
 
 ```sh
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
