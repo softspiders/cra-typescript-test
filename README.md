@@ -27,7 +27,10 @@ npm i -g create-react-app
 
 ### Generate+Install *createreactapp-typescript-test* application (*create-react-app* with *TypeScript*)
 
+All code in this repository are generated and installed at once by the following *create-react-app* command.
+
 Being in some parent directory, run:
+
 ```sh
 create-react-app createreactapp-typescript-test --scripts-version=react-scripts-ts
 ```
