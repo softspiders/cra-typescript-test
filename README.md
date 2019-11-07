@@ -2,11 +2,11 @@
 
 ## Direct ancestors
 
-Absent
+TBD
 
 ## Direct descendants
 
-Yet absent
+[cra-storybook-typescript](https://github.com/softspider/cra-storybook-typescript)
 
 ## Requirements
 
