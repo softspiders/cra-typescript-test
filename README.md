@@ -1,4 +1,4 @@
-# cra-typescript-test-snapshot-testing
+# cra-typescript-test-snapshot
 
 ## Direct ancestors
 
@@ -6,7 +6,7 @@ TBD
 
 ## Direct descendants
 
-[cra-storybook-typescript](https://github.com/softspider/cra-storybook-typescript-snapshot-testing)
+[cra-storybook-typescript-snapshot-testing](https://github.com/softspider/cra-storybook-typescript-snapshot-testing)
 
 ## Requirements
 
