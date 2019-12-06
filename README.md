@@ -1,4 +1,4 @@
-# createreactapp-typescript-test
+# cra-typescript-test-snapshot-testing
 
 ## Direct ancestors
 
