@@ -1,5 +1,12 @@
 # cra-typescript-test-snapshot
 
+## Feature tags
+
+- create-react-app
+- react
+- test
+- typescript
+
 ## Direct ancestors
 
 TBD
