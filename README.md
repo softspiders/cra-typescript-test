@@ -6,7 +6,7 @@ TBD
 
 ## Direct descendants
 
-[cra-storybook-typescript-snapshot-testing](https://github.com/softspider/cra-storybook-typescript-snapshot-testing)
+[cra-ts-storybook-snapshot-testing](https://github.com/softspider/cra-ts-storybook-snapshot-testing)
 
 ## Requirements
 
