@@ -1,4 +1,4 @@
-# cra-typescript-test-snapshot
+# cra-typescript-test
 
 ## Feature tags
 
