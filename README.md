@@ -1,3 +1,4 @@
+SOFTSPIDERS
 # cra-typescript-test
 
 ## Feature tags
