@@ -14,7 +14,7 @@ TBD
 
 ## Direct descendants
 
-[cra-ts-storybook-snapshot-testing](https://github.com/softspider/cra-ts-storybook-snapshot-testing)
+[cra-ts-storybook-snapshot-testing](https://github.com/softspiders/cra-ts-storybook-snapshot-testing)
 
 ## Requirements
 
