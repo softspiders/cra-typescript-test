@@ -20,7 +20,7 @@ TBD
 ## Direct descendants
 
 - [cra-ts-storybook-snapshot-testing](https://github.com/softspiders/cra-ts-storybook-snapshot-testing)
-- [***+msw,react-query, rtl***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
+- [***+msw,react-query,rest,rtl***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
 
 ---
 
